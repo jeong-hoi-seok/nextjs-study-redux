@@ -1,0 +1,522 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "7lDKdWaoFv3lE4Du3GMXh3Dvw1o",
+    "nextPageToken": "CA8QAA",
+    "regionCode": "KR",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 15
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "rqk0YHWBlV5djLP1yMgkYHRfB9k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8K7BJlf9Uik"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-16T09:00:21Z",
+                "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
+                "title": "Hanni&#39;s late?! ⏰⏳#NewJeans #뉴진스 #NewJeans_OMG #NewJeans_Ditto #Year_of_NewJeans",
+                "description": "Hanni's late?! ⏰⏳#NewJeans #뉴진스 #NewJeans_OMG #NewJeans_Ditto #Year_of_NewJeans c 2023 ADOR. All Rights ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8K7BJlf9Uik/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8K7BJlf9Uik/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8K7BJlf9Uik/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NewJeans",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-16T09:00:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2226ZHTiB88exSK9wjtvKfk2eVs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KgyxvCLsUsI"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-15T07:55:20Z",
+                "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+                "title": "[안방1열 풀캠4K] 뉴진스 &#39;OMG&#39; (NewJeans FullCam)│@SBS Inkigayo 230115",
+                "description": "[안방1열 풀캠4K] 뉴진스 'OMG' (NewJeans FullCam)│@SBS Inkigayo 230115 #인기가요 #뉴진스 #NewJeans_OMG ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KgyxvCLsUsI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KgyxvCLsUsI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KgyxvCLsUsI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "스브스케이팝 X INKIGAYO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-15T07:55:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "L7wAAIrmce9OynNxxTDV58j8Vaw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PT-q_14zNf0"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-15T08:00:00Z",
+                "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
+                "title": "Dressed to OMG🐰 #NewJeans #뉴진스 #NewJeans_OMG #NewJeans_Ditto #Year_of_NewJeans",
+                "description": "Dressed to OMG   #NewJeans #뉴진스 #NewJeans_OMG #NewJeans_Ditto#Year_of_NewJeans c 2023 ADOR. All Rights ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PT-q_14zNf0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PT-q_14zNf0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PT-q_14zNf0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NewJeans",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-15T08:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XzeLrX_Td1VDXmjZdFPWtKIWdgk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Km71Rr9K-Bw"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-30T10:00:01Z",
+                "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
+                "title": "NewJeans (뉴진스) &#39;Ditto&#39; Performance Video",
+                "description": "NewJeans (뉴진스) 'Ditto' Performance Video Producer: MIN HEE JIN Performance Video Direction: Yemin Kim Performance ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Km71Rr9K-Bw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Km71Rr9K-Bw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Km71Rr9K-Bw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NewJeans",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-30T10:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0POgoCQIh359JCM1P2Fw8TaFCc0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1hcdQixxJdA"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-04T11:00:08Z",
+                "channelId": "UCqq-ovGE01ErlXakPihhKDA",
+                "title": "뉴진스 (NewJeans) _ OMG | 1theKILLPO | 원더킬포 | 킬포인트 | 퍼포먼스 | Performance | 4K | 민지 하니 다니엘 해린 혜인",
+                "description": "뉴진스 (NewJeans) _ OMG | 1theKILLPO | 원더킬포 | 킬포인트 | 퍼포먼스 | Performance | 4K | 민지 하니 다니엘 해린 혜인 #뉴 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1hcdQixxJdA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1hcdQixxJdA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1hcdQixxJdA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "1theK Originals - 원더케이 오리지널",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-04T11:00:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "j-USZHT-ZVhv2Fh1wFc2BBNJ6ps",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iV6k4CNS3Hw"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-15T07:54:15Z",
+                "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+                "title": "[안방1열 풀캠4K] 뉴진스 &#39;Ditto&#39; (NewJeans FullCam)│@SBS Inkigayo 230115",
+                "description": "[안방1열 풀캠4K] 뉴진스 'Ditto' (NewJeans FullCam)│@SBS Inkigayo 230115 #인기가요 #뉴진스 #NewJeans_Ditto ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iV6k4CNS3Hw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iV6k4CNS3Hw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iV6k4CNS3Hw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "스브스케이팝 X INKIGAYO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-15T07:54:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "060KFL5jGyo_OSNvWOBi9pbxfy4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_ZAgIHmHLdc"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-02T09:00:00Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "NewJeans (뉴진스) &#39;OMG&#39; Official MV",
+                "description": "NewJeans (뉴진스) 'OMG' Official MV Producer: MIN HEE JIN Music Video Director: Wooseok Shin (DOLPHINERS FILM) c 2023 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_ZAgIHmHLdc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_ZAgIHmHLdc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_ZAgIHmHLdc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-02T09:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "J-tuY-p07gJnkXcbDZRjJuzdKbo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1db-c4AvP-4"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-16T11:30:00Z",
+                "channelId": "UCxgAdCqJvjvrF7LNqSAgzSg",
+                "title": "뉴진스 경호원이 사진 찍는 팬들 막는 방법 #shorts",
+                "description": "뉴진스 #뉴진스경호원 #붙수니 #찍덕 #shorts.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1db-c4AvP-4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1db-c4AvP-4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1db-c4AvP-4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "피키픽처스 Piki Pictures",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-16T11:30:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "EoEEySaJKugdzgDlhweBb9PdNFM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eYag9MvLIxY"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-15T23:05:18Z",
+                "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
+                "title": "[문화연예 플러스] 뉴진스, 영국 오피셜 싱글 톱 100 첫 진입 (2023.01.16/뉴스투데이/MBC)",
+                "description": "걸그룹 '뉴진스'가 미국 빌보드와 함께 세계 양대 팝 차트로 꼽히는 '영국 오피셜 차트'에 진입했습니다. 데뷔한 지 불과 6개월 만에 이룬 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eYag9MvLIxY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eYag9MvLIxY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eYag9MvLIxY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MBCNEWS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-15T23:05:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "rf1mEgERPrd7yX6QYV9FED2O2qA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wlMw8LpOaIA"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-03T01:20:04Z",
+                "channelId": "UCdz4rTZ732YlLauioDm5RrA",
+                "title": "newjeans playlist",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wlMw8LpOaIA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wlMw8LpOaIA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wlMw8LpOaIA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "미레도",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-03T01:20:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1N5bKmbZzhzuLPWTyi6nkPZyIR8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vPNbwwrs0A0"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-14T10:00:35Z",
+                "channelId": "UCVyhgRCO6WREp3-3dL1-odQ",
+                "title": "[4K] NewJeans(뉴진스) - &#39;OMG&#39; | Performance Clip #Multiview #NewJeans",
+                "description": "NewJeans #OMG #뉴진스 ✓Multiview 보러 가기 https://navernow.onelink.me/o5cK/multiview 뉴진스   OMG 멀티뷰 NOW.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vPNbwwrs0A0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vPNbwwrs0A0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vPNbwwrs0A0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "네이버 NOW.",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-14T10:00:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yV3KgvQILPcy5bqWROxOETL5JcU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "20mMVe-gEPs"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-15T11:29:27Z",
+                "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+                "title": "[앵콜캠4K] 뉴진스 &#39;OMG&#39; 인기가요 1위 앵콜 직캠 (NewJeans Encore Fancam)│@SBS Inkigayo 230115",
+                "description": "[앵콜캠4K] 뉴진스 'OMG' 인기가요 1위 앵콜 직캠 (NewJeans Encore Fancam)│@SBS Inkigayo 230115 #인기가요1위 #앵콜캠 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/20mMVe-gEPs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/20mMVe-gEPs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/20mMVe-gEPs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "스브스케이팝 X INKIGAYO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-15T11:29:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VNq4zjyzjAy7EXrNU6SYjsaLyPs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_Xs1ZCMfa2Y"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-06T10:00:01Z",
+                "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
+                "title": "NewJeans (뉴진스) &#39;OMG&#39; Dance Practice",
+                "description": "NewJeans (뉴진스) 'OMG' Dance Practice c 2023 ADOR. All Rights Reserved. Connect with NewJeans PHONING ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_Xs1ZCMfa2Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_Xs1ZCMfa2Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_Xs1ZCMfa2Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NewJeans",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-06T10:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Z0W_aC5uGL54fVmM6U7irQV5QVI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pSUydWEqKwE"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-19T09:00:03Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "NewJeans (뉴진스) &#39;Ditto&#39; Official MV (side A)",
+                "description": "Producer: MIN HEE JIN Music Video Director: Wooseok Shin (DOLPHINERS FILM) c 2022 ADOR. All Rights Reserved. Connect ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pSUydWEqKwE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pSUydWEqKwE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pSUydWEqKwE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-19T09:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yusPxj3o8-BS2O8HfdJHgm9yI2k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kDd0lAVTRy4"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-16T09:00:33Z",
+                "channelId": "UCgZlBRLRB1-0l-qL9BkecLQ",
+                "title": "[여기서요?] 뉴진스 NewJeans - OMG (B Team ver.) | 커버댄스 Dance Cover @한강공원",
+                "description": "ARTBEAT DANCE VIDEO 멤버십에 가입해 ARTBEAT를 후원해 주세요!!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kDd0lAVTRy4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kDd0lAVTRy4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kDd0lAVTRy4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ARTBEAT",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-16T09:00:33Z"
+            }
+        }
+    ]
+}
