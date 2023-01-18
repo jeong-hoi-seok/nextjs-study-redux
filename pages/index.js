@@ -48,21 +48,6 @@ export default function Home(props) {
 	// 	})
 	// }, []);
 
-	useEffect(() => {
-		axios.get('http://openapi.seoul.go.kr:8088/536e484769796d3937324150436959/json/culturalEventInfo/1/1000/%EB%AE%A4%EC%A7%80%EC%BB%AC')
-		.then((res) => {
-			console.log(res, '프론트')
-		})
-		.catch((error) => {
-			console.log(error, '프론트');
-		})
-
-	}, []);	
-
-	useEffect(() => {
-		console.log(test, '서버사이드')
-	}, [test])
-
 	return (
 		<>
 			<Head>
@@ -84,16 +69,4 @@ export default function Home(props) {
 			</main>
 		</>
 	)
-}
-
-export async function getServerSideProps(context) {
-
-	const res = await axios.get('http://openapi.seoul.go.kr:8088/536e484769796d3937324150436959/json/culturalEventInfo/1/1000/%EB%AE%A4%EC%A7%80%EC%BB%AC');
-
-	console.log(res.data)
-	return {
-	  props: {
-		test: res.data
-	  }, // will be passed to the page component as props
-	}
 }
